@@ -1,0 +1,19 @@
+{
+  "name": "JajaFinalProject-Protractor",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Protractor config/config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Org-ProctractorByJaja@dev.azure.com/Org-ProctractorByJaja/JajaFinalProject-Protractor/_git/JajaFinalProject-Protractor"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  }
+}
